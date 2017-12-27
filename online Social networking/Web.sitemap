@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+    <siteMapNode url="" title=""  description="">
+      <siteMapNode url="~/Home/checkprofile.aspx" title="Profile"  description="" />
+      <siteMapNode url="~/Home/scrap.aspx" title="Scrap"  description="" />
+      <siteMapNode url="~/Home/photogallary.aspx" title="Photo"  description="" />
+      <siteMapNode url="~/Home/Deletefriends.aspx" title="Delete Friends"  description="" />
+      <siteMapNode url="~/Home/Default.aspx" title="Chat"  description="" />
+      <siteMapNode url="~/Home/changepass.aspx" title="Change Password"  description="" />
+      <siteMapNode url="~/Home/RequestFrnds.aspx" title="Friend Requests"  description="" />
+     
+    </siteMapNode>
+</siteMap>
